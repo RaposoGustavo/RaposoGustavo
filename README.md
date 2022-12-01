@@ -1,6 +1,6 @@
 ## Eae! Eu sou o Gustavo Raposo.
 
-- 💻Estudando front-end
+- 💻FullStack Dev
 - ✉ Contate-me em: gustavo.m.raposo@outlook.com
 
 <div>
